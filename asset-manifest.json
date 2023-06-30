@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/paradise/static/css/main.46b5a966.css",
+    "main.js": "/paradise/static/js/main.4835db10.js",
+    "static/js/787.af868ad8.chunk.js": "/paradise/static/js/787.af868ad8.chunk.js",
+    "static/media/spa_1.png": "/paradise/static/media/spa_1.96f5ae93a8ddb0db3874.png",
+    "static/media/blue_water_splash_2.png": "/paradise/static/media/blue_water_splash_2.8f709b844e5be2931392.png",
+    "static/media/eventos_h_bridos__una_de_las_tendencias_m_s_popula_1.png": "/paradise/static/media/eventos_h_bridos__una_de_las_tendencias_m_s_popula_1.70c19038f04fe2aa1d06.png",
+    "static/media/bar.png": "/paradise/static/media/bar.4059d2f5e90b9154c8ee.png",
+    "static/media/a_palm_on_a_boat_removebg_preview_1.png": "/paradise/static/media/a_palm_on_a_boat_removebg_preview_1.025be5cfaf1cedc39406.png",
+    "static/media/a_sea_background_with_palmtrees_removebg_preview_1.png": "/paradise/static/media/a_sea_background_with_palmtrees_removebg_preview_1.37b80f844f09b20ca3ac.png",
+    "index.html": "/paradise/index.html",
+    "main.46b5a966.css.map": "/paradise/static/css/main.46b5a966.css.map",
+    "main.4835db10.js.map": "/paradise/static/js/main.4835db10.js.map",
+    "787.af868ad8.chunk.js.map": "/paradise/static/js/787.af868ad8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46b5a966.css",
+    "static/js/main.4835db10.js"
+  ]
+}
